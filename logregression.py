@@ -56,7 +56,7 @@ def logistic_regression(sales, profit, state, subcat):
 
     #Print Confusion Matrix Report
     confmat = confusion_matrix(y_true=y_test, y_pred=y_pred)
-    print(classification_report(y_test, y_pred))
+    # print(classification_report(y_test, y_pred))
 
     #Predict using Single Entry
     input_array = np.array([[sales, profit, state, subcat]])
