@@ -13,11 +13,11 @@ from sklearn import set_config
 
 
 def logistic_regression(sales, profit, state, subcat):
-    a = pd.read_csv('final_sample.csv')
+    a = pd.read_csv('superstore_1600.csv')
     y = a.iloc[:, 0]
     X = a.iloc[:, 1:]
 
-    oversample = SMOTENC(categorical_features=[2, 3])
+    oversample = SMOTENC(categorical_features=[2, 3], random_state=42)
     X, y = oversample.fit_resample(X, y)
 
     #Feature Scaling on Numeric Features
@@ -56,7 +56,7 @@ def logistic_regression(sales, profit, state, subcat):
 
     #Print Confusion Matrix Report
     confmat = confusion_matrix(y_true=y_test, y_pred=y_pred)
-    print(classification_report(y_test, y_pred))
+    # print(classification_report(y_test, y_pred))
 
     #Predict using Single Entry
     input_array = np.array([[sales, profit, state, subcat]])

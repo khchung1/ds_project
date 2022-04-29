@@ -1,0 +1,1123 @@
+Returned,Sales,Profit,State,Sub-Category
+0,843.9,371.316,Washington,Accessories
+0,49.98,8.4966,California,Accessories
+0,428.4,89.964,Washington,Accessories
+0,50,10.5,Washington,Accessories
+0,239.94,26.3934,Washington,Accessories
+0,2309.65,762.1845,New York,Accessories
+0,82.95,29.0325,California,Accessories
+0,19.99,6.7966,New York,Accessories
+0,284.97,85.491,California,Accessories
+0,655.9,275.478,Minnesota,Accessories
+0,99.98,42.9914,Michigan,Accessories
+0,93.98,13.1572,Washington,Accessories
+0,199.75,87.89,California,Accessories
+0,111.98,26.8752,Virginia,Accessories
+0,99.39,40.7499,California,Accessories
+0,199.96,69.986,California,Accessories
+0,234.45,103.158,Virginia,Accessories
+0,159.56,59.0372,California,Accessories
+0,90.57,11.7741,California,Accessories
+0,843.9,371.316,New York,Accessories
+0,1399.93,601.9699,New York,Accessories
+0,84.99,30.5964,Michigan,Accessories
+0,101.7,6.102,Georgia,Accessories
+0,149.95,65.978,Georgia,Accessories
+0,119.96,52.7824,New York,Accessories
+0,79.99,28.7964,New York,Accessories
+0,167.97,40.3128,New York,Accessories
+0,11.54,3.462,Washington,Accessories
+0,239.97,86.3892,California,Accessories
+0,62.31,22.4316,California,Accessories
+0,179.97,86.3856,California,Accessories
+0,99.99,37.9962,California,Accessories
+0,89.97,37.7874,California,Accessories
+0,140.97,19.7358,California,Accessories
+0,66.26,27.1666,California,Accessories
+0,37.6,2.256,New York,Accessories
+0,499.98,114.9954,Georgia,Accessories
+0,119.98,35.994,California,Accessories
+0,53.25,20.7675,California,Accessories
+0,199.96,15.9968,Indiana,Accessories
+0,62.85,13.1985,California,Accessories
+0,79.96,18.3908,Kentucky,Accessories
+0,209.93,92.3692,California,Accessories
+0,25.78,2.578,Washington,Accessories
+0,7.92,3.4848,California,Accessories
+0,538.92,80.838,Washington,Accessories
+0,99.54,10.9494,California,Accessories
+0,323.37,129.348,California,Accessories
+0,159.8,70.312,Indiana,Accessories
+0,1649.95,659.98,California,Accessories
+0,236,40.12,California,Accessories
+0,139.93,34.9825,California,Accessories
+0,36.24,15.2208,California,Accessories
+0,10.99,4.2861,California,Accessories
+0,159.98,57.5928,California,Accessories
+0,254.24,76.272,California,Accessories
+0,1.98,0.891,Indiana,Accessories
+0,98.16,9.816,Kentucky,Accessories
+0,62.31,22.4316,Indiana,Accessories
+0,99.98,7.9984,Virginia,Accessories
+0,45.48,15.918,California,Accessories
+0,75,18,Georgia,Accessories
+0,167.97,40.3128,California,Accessories
+0,79.9,35.156,California,Accessories
+0,299.97,131.9868,California,Accessories
+0,90,16.2,New York,Accessories
+0,34.77,11.4741,New York,Accessories
+0,349.95,118.983,California,Accessories
+0,0.99,0.4356,California,Accessories
+0,449.91,157.4685,New York,Accessories
+0,479.94,52.7934,California,Accessories
+0,3347.37,636.0003,California,Accessories
+0,199.98,87.9912,Washington,Accessories
+0,149.95,31.4895,California,Accessories
+0,26,11.7,New York,Accessories
+0,23.08,6.924,Virginia,Accessories
+0,79.99,28.7964,Georgia,Accessories
+0,72,12.96,California,Accessories
+0,89.97,39.5868,New York,Accessories
+0,899.91,377.9622,Washington,Accessories
+0,619.95,111.591,Michigan,Accessories
+0,39,17.55,California,Accessories
+0,393.54,165.2868,Indiana,Accessories
+0,66.36,23.226,Georgia,Accessories
+0,31.86,11.151,California,Accessories
+0,360,129.6,Georgia,Accessories
+0,238,38.08,New York,Accessories
+0,12.12,2.5452,Indiana,Accessories
+0,79.98,26.3934,Washington,Accessories
+0,33.9,2.034,Washington,Accessories
+0,111.96,21.2724,California,Accessories
+0,50,12,New York,Accessories
+0,389.97,132.5898,California,Accessories
+0,199.95,21.9945,California,Accessories
+0,359.98,21.5988,California,Accessories
+0,91.96,39.5428,New York,Accessories
+0,1265.85,556.974,California,Accessories
+0,26,11.7,New York,Accessories
+0,45.98,19.7714,Minnesota,Accessories
+0,67.8,4.068,Georgia,Accessories
+0,83.97,15.9543,Indiana,Accessories
+0,899.91,395.9604,New York,Accessories
+0,279.86,64.3678,Kentucky,Accessories
+0,52.56,18.396,New York,Appliances
+0,25.86,6.7236,Georgia,Appliances
+0,121.94,35.3626,New York,Appliances
+0,17.48,4.5448,New York,Appliances
+0,67.84,18.3168,California,Appliances
+0,7.78,2.0228,California,Appliances
+0,241.44,72.432,California,Appliances
+0,32.67,8.4942,New York,Appliances
+0,26.88,6.72,New York,Appliances
+0,61.44,16.5888,New York,Appliances
+0,13.11,3.4086,New York,Appliances
+0,81.08,22.7024,California,Appliances
+0,8.39,2.0975,New York,Appliances
+0,45.28,15.3952,California,Appliances
+0,235.95,77.8635,New York,Appliances
+0,1640.7,459.396,California,Appliances
+0,242.9,70.441,New York,Appliances
+0,533.94,154.8426,New York,Appliances
+0,113.76,44.3664,California,Appliances
+0,45.96,13.788,California,Appliances
+0,163.44,45.7632,Kentucky,Appliances
+0,52.98,14.8344,California,Appliances
+0,2504.74,626.185,New York,Appliances
+0,8.67,2.3409,California,Appliances
+0,56.65,24.3595,California,Appliances
+0,54.32,16.296,California,Appliances
+0,715.64,178.91,California,Appliances
+0,293.52,76.3152,New York,Appliances
+0,154.9,40.274,California,Appliances
+0,61.44,16.5888,California,Appliances
+0,37.68,10.5504,Indiana,Appliances
+0,22.98,6.894,Washington,Appliances
+0,1503.25,496.0725,Minnesota,Appliances
+0,1473.1,412.468,California,Appliances
+0,167.292,29.7408,Michigan,Appliances
+0,35.1,12.285,Washington,Appliances
+0,58.24,15.7248,California,Appliances
+0,356.79,99.9012,California,Appliances
+0,207.24,58.0272,Indiana,Appliances
+0,56.52,15.8256,California,Appliances
+0,40.54,11.3512,California,Appliances
+0,555.21,178.901,Michigan,Appliances
+0,106.96,31.0184,California,Appliances
+0,154.9,40.274,Georgia,Appliances
+0,114.9,34.47,California,Appliances
+0,236.88,66.3264,Washington,Appliances
+0,675.12,290.3016,Georgia,Appliances
+0,119.96,33.5888,Washington,Appliances
+0,195.68,50.8768,Kentucky,Appliances
+0,61.929,23.3954,Michigan,Appliances
+0,176.04,45.7704,California,Appliances
+0,122.94,30.735,New York,Appliances
+0,79.47,22.2516,California,Appliances
+0,81.96,22.9488,Washington,Appliances
+0,904.9,253.372,New York,Appliances
+0,7.77,2.0979,California,Appliances
+0,208.16,56.2032,New York,Appliances
+0,43.26,14.2758,California,Appliances
+0,19.9,8.955,New York,Appliances
+0,644.076,107.346,Michigan,Appliances
+0,43.92,11.8584,California,Appliances
+0,213.92,62.0368,Washington,Appliances
+0,389.97,35.0973,Michigan,Chairs
+0,504.9,80.784,Virginia,Chairs
+0,321.568,28.1372,California,Chairs
+0,2573.82,746.4078,Kentucky,Chairs
+0,123.136,13.8528,Washington,Chairs
+0,977.292,173.7408,New York,Chairs
+0,129.568,-24.294,California,Chairs
+0,451.152,0,California,Chairs
+0,245.646,8.1882,New York,Chairs
+0,230.28,23.028,California,Chairs
+0,975.92,121.99,Washington,Chairs
+0,2001.86,580.5394,Minnesota,Chairs
+0,631.782,140.396,New York,Chairs
+0,1139.92,284.98,Virginia,Chairs
+0,161.568,-28.2744,California,Chairs
+0,269.97,51.2943,Minnesota,Chairs
+0,885.528,-99.6219,California,Chairs
+0,230.28,23.028,California,Chairs
+0,215.976,-2.6997,Washington,Chairs
+0,122.352,13.7646,California,Chairs
+0,1403.92,70.196,California,Chairs
+0,388.704,38.8704,Washington,Chairs
+0,120.712,-18.1068,California,Chairs
+0,479.9,81.583,Minnesota,Chairs
+0,435.168,-59.8356,Washington,Chairs
+0,225.296,22.5296,California,Chairs
+0,283.92,70.98,Kentucky,Chairs
+0,664.146,88.5528,New York,Chairs
+0,184.752,-20.7846,California,Chairs
+0,483.136,60.392,California,Chairs
+0,1516.2,394.212,Indiana,Chairs
+0,1352.032,84.502,California,Chairs
+0,1106.91,121.7601,Michigan,Chairs
+0,603.92,45.294,Washington,Chairs
+0,442.764,59.0352,New York,Chairs
+0,90.882,15.147,New York,Chairs
+0,362.352,27.1764,California,Chairs
+0,701.96,168.4704,Virginia,Chairs
+0,81.424,-9.1602,California,Chairs
+0,2621.322,553.3902,New York,Chairs
+0,348.928,34.8928,California,Chairs
+0,113.888,9.9652,California,Chairs
+0,647.84,32.392,Indiana,Chairs
+0,301.96,90.588,Kentucky,Chairs
+0,145.764,3.2392,New York,Chairs
+0,462.564,97.6524,New York,Chairs
+0,161.568,-8.0784,California,Chairs
+0,362.352,45.294,California,Chairs
+0,300.98,87.2842,Kentucky,Chairs
+0,484.704,-84.8232,California,Chairs
+0,225.568,2.8196,California,Chairs
+0,145.764,-8.098,New York,Chairs
+0,573.174,63.686,New York,Chairs
+0,33.94,9.1638,Kentucky,Chairs
+0,182.67,52.9743,Georgia,Chairs
+0,478.48,47.848,California,Chairs
+0,393.568,-44.2764,California,Chairs
+0,332.94,79.9056,Virginia,Chairs
+0,389.97,35.0973,Michigan,Chairs
+0,387.136,4.8392,California,Chairs
+0,108.608,9.5032,California,Chairs
+0,585.552,73.194,Washington,Chairs
+0,163.764,25.4744,New York,Chairs
+0,113.888,9.9652,Washington,Chairs
+0,701.96,168.4704,Kentucky,Chairs
+0,48.712,5.4801,Washington,Chairs
+0,241.424,-36.2136,California,Chairs
+0,177.568,8.8784,Washington,Chairs
+0,81.424,-9.1602,California,Chairs
+0,1212.96,90.972,California,Chairs
+0,1159.056,43.4646,California,Chairs
+0,63.936,6.3936,California,Chairs
+0,383.607,63.9345,New York,Chairs
+0,90.801,14.1246,New York,Chairs
+0,518.272,-97.176,California,Chairs
+0,199.764,8.8784,New York,Chairs
+0,241.568,18.1176,California,Chairs
+0,1925.88,539.2464,Indiana,Chairs
+0,1403.92,70.196,California,Chairs
+0,770.352,77.0352,California,Chairs
+0,561.568,28.0784,Washington,Chairs
+0,191.968,16.7972,California,Chairs
+0,842.352,42.1176,California,Chairs
+0,191.646,31.941,New York,Chairs
+0,828.6,240.294,Indiana,Chairs
+0,2879.952,1007.9832,California,Copiers
+0,479.976,161.9919,California,Copiers
+0,999.98,449.991,Indiana,Copiers
+0,1199.976,434.9913,California,Copiers
+0,479.984,59.998,New York,Copiers
+0,1199.976,434.9913,California,Copiers
+0,599.98,209.993,Michigan,Copiers
+0,17499.95,8399.976,Indiana,Copiers
+0,799.984,249.995,New York,Copiers
+0,1399.98,629.991,Kentucky,Copiers
+0,40.48,14.5728,California,Furnishings
+0,69.08,29.0136,New York,Furnishings
+0,191.82,61.3824,New York,Furnishings
+0,54.92,19.7712,California,Furnishings
+0,595.38,297.69,California,Furnishings
+0,383.64,122.7648,California,Furnishings
+0,36.4,13.832,California,Furnishings
+0,77.92,34.2848,California,Furnishings
+0,201.04,54.2808,California,Furnishings
+0,30.8,10.164,California,Furnishings
+0,128.9,15.468,California,Furnishings
+0,62.82,30.7818,Virginia,Furnishings
+0,629.64,107.0388,California,Furnishings
+0,12.56,4.0192,California,Furnishings
+0,46.9,13.132,Washington,Furnishings
+0,13.96,6.7008,New York,Furnishings
+0,135.8,66.542,New York,Furnishings
+0,20.24,8.7032,Georgia,Furnishings
+0,26.8,12.864,New York,Furnishings
+0,10.02,4.4088,New York,Furnishings
+0,18.84,7.9128,California,Furnishings
+0,20.24,7.8936,Washington,Furnishings
+0,257.64,100.4796,California,Furnishings
+0,39.92,11.1776,California,Furnishings
+0,209.88,35.6796,Washington,Furnishings
+0,36.96,11.4576,California,Furnishings
+0,12.07,3.9831,New York,Furnishings
+0,18.96,8.532,New York,Furnishings
+0,35.34,13.4292,California,Furnishings
+0,94.2,39.564,California,Furnishings
+0,108.4,22.764,New York,Furnishings
+0,41.6,14.144,California,Furnishings
+0,37.74,12.8316,New York,Furnishings
+0,42.6,16.614,California,Furnishings
+0,60.72,26.1096,New York,Furnishings
+0,259.7,106.477,New York,Furnishings
+0,41.96,10.9096,New York,Furnishings
+0,113.92,42.1504,New York,Furnishings
+0,186.54,41.0388,Georgia,Furnishings
+0,435.26,95.7572,California,Furnishings
+0,53.2,14.896,California,Furnishings
+0,199.8,71.928,Washington,Furnishings
+0,42.6,16.614,Kentucky,Furnishings
+0,318.08,34.9888,Kentucky,Furnishings
+0,31.4,10.048,Michigan,Furnishings
+0,45.98,7.8166,New York,Furnishings
+0,79.92,28.7712,California,Furnishings
+0,122.91,34.4148,California,Furnishings
+0,14.98,6.8908,New York,Furnishings
+0,13.28,6.3744,New York,Furnishings
+0,29.78,8.0406,New York,Furnishings
+0,63.68,28.0192,New York,Furnishings
+0,51.75,15.525,Georgia,Furnishings
+0,20.94,6.0726,New York,Furnishings
+0,177.68,46.1968,Virginia,Furnishings
+0,65.94,22.4196,Washington,Furnishings
+0,18.69,7.1022,Virginia,Furnishings
+0,39.96,14.3856,Virginia,Furnishings
+0,79.44,28.5984,California,Furnishings
+0,31.96,1.598,California,Furnishings
+0,8.36,3.0096,California,Furnishings
+0,25.4,8.636,Washington,Furnishings
+0,191.82,74.8098,Washington,Furnishings
+0,145.9,62.737,California,Furnishings
+0,113.6,44.304,New York,Furnishings
+0,63.47,19.041,Washington,Furnishings
+0,14.8,6.068,Washington,Furnishings
+0,187.76,76.9816,California,Furnishings
+0,11.54,3.462,New York,Furnishings
+0,104.23,28.1421,California,Furnishings
+0,547.3,175.136,New York,Furnishings
+0,111,14.43,California,Furnishings
+0,31.56,10.4148,California,Furnishings
+0,204.85,57.358,California,Furnishings
+0,47.12,20.7328,New York,Furnishings
+0,22.14,6.4206,Washington,Furnishings
+0,27.58,11.5836,Kentucky,Furnishings
+0,20.32,6.9088,New York,Furnishings
+0,22.14,6.4206,Washington,Furnishings
+0,109.48,33.9388,New York,Furnishings
+0,58.68,18.1908,New York,Furnishings
+0,474.43,199.2606,California,Furnishings
+0,24.1,9.158,Kentucky,Furnishings
+0,155.25,46.575,Washington,Furnishings
+0,59.99,21.5964,California,Furnishings
+0,39.92,11.1776,Georgia,Furnishings
+0,60.84,19.4688,California,Furnishings
+0,24.75,10.89,Washington,Furnishings
+0,20.04,8.8176,California,Furnishings
+0,273.96,71.2296,Michigan,Furnishings
+0,24.1,9.158,Kentucky,Furnishings
+0,255.76,81.8432,California,Furnishings
+0,35.56,12.0904,New York,Furnishings
+0,529.9,105.98,California,Furnishings
+0,68.95,28.959,New York,Furnishings
+0,16.02,6.0876,California,Furnishings
+0,60.35,19.9155,New York,Furnishings
+0,41.96,10.9096,California,Furnishings
+0,10.11,3.2352,California,Furnishings
+0,47.04,15.9936,California,Furnishings
+0,63.92,3.196,Washington,Furnishings
+0,464.85,92.97,California,Furnishings
+0,43.13,18.1146,California,Furnishings
+0,289.24,26.0316,California,Furnishings
+0,25.08,9.0288,California,Furnishings
+0,71.12,22.0472,Indiana,Furnishings
+0,306.9,79.794,Michigan,Furnishings
+0,82.64,7.4376,New York,Furnishings
+0,204.6,53.196,California,Furnishings
+0,123.96,11.1564,California,Furnishings
+0,37.05,16.302,California,Furnishings
+0,40.2,19.296,New York,Furnishings
+0,6.24,2.6208,Indiana,Furnishings
+0,142.4,52.688,Georgia,Furnishings
+0,322.59,64.518,New York,Furnishings
+0,286.38,83.0502,Virginia,Furnishings
+0,154.95,30.99,New York,Furnishings
+0,27.42,9.3228,Georgia,Furnishings
+0,53.34,16.5354,Minnesota,Furnishings
+0,6.24,2.6208,Washington,Furnishings
+0,24.7,10.374,California,Furnishings
+0,6.16,2.9568,Indiana,Furnishings
+0,33.48,8.7048,Michigan,Furnishings
+0,12.96,6.2208,California,Paper
+0,146.73,68.9631,California,Paper
+0,11.94,5.97,California,Paper
+0,19.44,9.3312,New York,Paper
+0,12.96,6.2208,New York,Paper
+0,12.96,6.2208,California,Paper
+0,19.05,8.763,California,Paper
+0,440.19,206.8893,Washington,Paper
+0,75.88,35.6636,Virginia,Paper
+0,219.84,107.7216,California,Paper
+0,50.96,24.4608,Georgia,Paper
+0,13.52,6.2192,New York,Paper
+0,4.73,2.3177,California,Paper
+0,160.72,78.7528,California,Paper
+0,8.56,3.852,California,Paper
+0,9.68,4.6464,California,Paper
+0,49.12,23.0864,California,Paper
+0,28.16,13.2352,Indiana,Paper
+0,30.18,13.8828,New York,Paper
+0,40.99,20.0851,Virginia,Paper
+0,8,3.84,California,Paper
+0,104.85,50.328,California,Paper
+0,96.08,46.1184,Indiana,Paper
+0,18.76,9.0048,New York,Paper
+0,92.94,41.823,California,Paper
+0,177.2,83.284,Indiana,Paper
+0,42.8,19.26,California,Paper
+0,12.96,6.2208,Michigan,Paper
+0,166.44,79.8912,California,Paper
+0,244.55,114.9385,California,Paper
+0,123.92,55.764,New York,Paper
+0,24.56,11.5432,Kentucky,Paper
+0,69.93,31.4685,Georgia,Paper
+0,32.4,15.552,California,Paper
+0,5.78,2.8322,Kentucky,Paper
+0,25.92,12.4416,New York,Paper
+0,38.88,18.6624,California,Paper
+0,12.84,5.778,California,Paper
+0,6.48,3.1104,New York,Paper
+0,6.48,3.1104,California,Paper
+0,9.11,4.0995,Virginia,Paper
+0,21.4,10.058,Washington,Paper
+0,34.68,16.9932,California,Paper
+0,12.96,6.2208,California,Paper
+0,14.62,6.7252,New York,Paper
+0,54.96,26.9304,New York,Paper
+0,32.4,15.552,California,Paper
+0,18.98,8.9206,New York,Paper
+0,6.69,3.0774,New York,Paper
+0,32.4,15.552,Virginia,Paper
+0,34.4,15.824,New York,Paper
+0,32.4,15.552,Washington,Paper
+0,6.48,3.1104,New York,Paper
+0,19.44,9.3312,New York,Paper
+0,5.78,2.8322,Indiana,Paper
+0,80.28,36.9288,California,Paper
+0,25.92,12.4416,California,Paper
+0,348.84,170.9316,Georgia,Paper
+0,19.98,9.3906,California,Paper
+0,286.93,140.5957,California,Paper
+0,20.34,9.3564,Washington,Paper
+0,159.88,73.5448,California,Paper
+0,47.18,23.59,Minnesota,Paper
+0,14.94,7.0218,California,Paper
+0,45.36,21.7728,New York,Paper
+0,70.88,33.3136,New York,Paper
+0,12.96,6.2208,California,Paper
+0,12.96,6.2208,Virginia,Paper
+0,19.44,9.3312,Washington,Paper
+0,32.4,15.552,Washington,Paper
+0,12.84,5.778,California,Paper
+0,13.48,6.74,New York,Paper
+0,45.36,21.7728,Kentucky,Paper
+0,6.48,3.1104,Washington,Paper
+0,111.96,54.8604,New York,Paper
+0,13.08,6.0168,New York,Paper
+0,41.86,20.5114,New York,Paper
+0,12.96,6.2208,California,Paper
+0,109.92,53.8608,Michigan,Paper
+0,49.12,23.0864,New York,Paper
+0,221.92,106.5216,New York,Paper
+0,116.28,56.9772,California,Paper
+0,10.56,4.752,California,Paper
+0,18.54,8.7138,Washington,Paper
+0,154.9,69.705,California,Paper
+0,19.44,9.3312,New York,Paper
+0,75.88,35.6636,Indiana,Paper
+0,19.44,9.3312,California,Paper
+0,192.72,92.5056,California,Paper
+0,12.96,6.2208,Washington,Paper
+0,114.2,52.532,Washington,Paper
+0,17.61,8.4528,California,Paper
+0,104.85,50.328,California,Paper
+0,182.72,84.0512,New York,Paper
+0,12.96,6.2208,California,Paper
+0,23.92,10.764,New York,Paper
+0,277.4,133.152,Indiana,Paper
+0,38.88,18.6624,California,Paper
+0,37.94,18.2112,Washington,Paper
+0,123.92,55.764,Washington,Paper
+0,11.96,5.8604,Washington,Paper
+0,10.56,4.752,Michigan,Paper
+0,4.41,2.0286,Indiana,Paper
+0,62.24,28.008,California,Paper
+0,733.95,352.296,California,Paper
+0,22.96,11.2504,California,Paper
+0,110.96,53.2608,New York,Paper
+0,12.96,6.2208,California,Paper
+0,24.56,11.5432,California,Paper
+0,184.66,84.9436,Georgia,Paper
+0,17.94,8.7906,Washington,Paper
+0,39.9,19.95,Minnesota,Paper
+0,12.96,6.2208,New York,Paper
+0,23.92,11.7208,Minnesota,Paper
+0,122.97,60.2553,Georgia,Paper
+0,30.87,14.2002,Washington,Paper
+0,19.44,9.3312,California,Paper
+0,49.12,23.0864,New York,Paper
+0,12.96,6.3504,Virginia,Paper
+0,164.88,80.7912,California,Paper
+0,11.96,5.8604,California,Paper
+0,37.52,18.0096,California,Paper
+0,19.44,9.3312,New York,Paper
+0,35.88,16.146,Indiana,Paper
+0,39.96,19.1808,California,Paper
+0,14.94,7.0218,New York,Paper
+0,110.96,53.2608,California,Paper
+0,30.44,14.3068,New York,Paper
+0,34.4,15.824,California,Paper
+0,35.88,16.146,California,Paper
+0,18.54,8.7138,Michigan,Paper
+0,4.36,2.0492,Georgia,Paper
+0,5.88,2.8812,New York,Paper
+0,15.24,7.1628,Georgia,Paper
+0,32.4,15.552,Virginia,Paper
+0,167.94,82.2906,New York,Paper
+0,6.58,3.0268,California,Paper
+0,22.83,10.7301,California,Paper
+0,10.56,5.0688,California,Paper
+0,51.84,24.8832,New York,Paper
+0,158.28,72.8088,Indiana,Paper
+0,48.91,22.9877,California,Paper
+0,39.96,17.982,New York,Paper
+0,6.48,3.1104,New York,Paper
+0,32.4,15.552,Minnesota,Paper
+0,167.94,82.2906,Indiana,Paper
+0,13.36,6.4128,New York,Paper
+0,58.32,27.9936,Georgia,Paper
+0,55.48,26.6304,New York,Paper
+0,189.7,89.159,Washington,Paper
+0,46.35,21.7845,California,Paper
+0,35.56,16.7132,Michigan,Paper
+0,5.98,2.691,California,Paper
+0,12.96,6.2208,California,Paper
+0,61.96,27.882,California,Paper
+0,12.96,6.2208,California,Paper
+0,279.9,137.151,Georgia,Paper
+0,94.85,45.528,California,Paper
+0,68.52,31.5192,Michigan,Paper
+0,13.76,6.3296,Kentucky,Paper
+0,25.92,12.4416,Georgia,Paper
+0,10.86,5.3214,California,Paper
+0,19.44,9.3312,Washington,Paper
+0,19.65,9.039,New York,Paper
+0,20.12,9.2552,Virginia,Paper
+0,106.32,49.9704,Georgia,Paper
+0,19.44,9.3312,Michigan,Paper
+0,314.55,150.984,California,Paper
+0,7.78,3.501,California,Paper
+0,318.96,149.9112,New York,Paper
+0,8.82,4.0572,California,Paper
+0,29.96,13.482,California,Paper
+0,71.28,34.2144,Washington,Paper
+0,25.92,12.4416,Washington,Paper
+0,11.36,5.2256,New York,Paper
+0,11.76,5.7624,California,Paper
+0,105.52,48.5392,California,Paper
+0,26.4,11.88,Indiana,Paper
+0,307.98,89.3142,New York,Phones
+0,183.96,20.6955,California,Phones
+0,199.98,53.9946,New York,Phones
+0,215.968,18.8972,California,Phones
+0,219.168,-43.8336,Washington,Phones
+0,15.992,-2.9985,California,Phones
+0,33.52,3.352,California,Phones
+0,144.95,42.0355,Virginia,Phones
+0,470.376,52.9173,California,Phones
+0,445.96,55.745,California,Phones
+0,775.728,58.1796,California,Phones
+0,227.46,65.9634,New York,Phones
+0,119.94,5.997,New York,Phones
+0,79.92,26.973,California,Phones
+0,156.792,13.7193,Washington,Phones
+0,284.82,74.0532,Virginia,Phones
+0,39.98,1.999,New York,Phones
+0,104.85,28.3095,Georgia,Phones
+0,36.99,9.9873,Kentucky,Phones
+0,143.976,8.9985,California,Phones
+0,107.984,9.4486,Washington,Phones
+0,222.384,22.2384,California,Phones
+0,41.22,11.1294,New York,Phones
+0,299.98,83.9944,Michigan,Phones
+0,39.99,11.5971,New York,Phones
+0,116.98,29.245,New York,Phones
+0,239.97,2.3997,New York,Phones
+0,281.97,78.9516,Minnesota,Phones
+0,271.96,27.196,California,Phones
+0,464,134.56,New York,Phones
+0,445.96,55.745,California,Phones
+0,503.96,50.396,California,Phones
+0,623.96,38.9975,California,Phones
+0,604.768,60.4768,Washington,Phones
+0,29.97,14.0859,New York,Phones
+0,71.96,25.186,Washington,Phones
+0,249.584,31.198,California,Phones
+0,13.98,3.9144,New York,Phones
+0,377.97,105.8316,Minnesota,Phones
+0,302.376,37.797,California,Phones
+0,84.784,-20.1362,Washington,Phones
+0,302.376,22.6782,California,Phones
+0,862.344,97.0137,California,Phones
+0,1079.85,323.955,New York,Phones
+0,65.99,17.1574,New York,Phones
+0,549.98,142.9948,New York,Phones
+0,89.95,43.176,New York,Phones
+0,84.784,-20.1362,California,Phones
+0,629.95,163.787,New York,Phones
+0,31.968,2.3976,California,Phones
+0,1049.93,293.9804,Georgia,Phones
+0,657.93,184.2204,Michigan,Phones
+0,22,1.375,California,Phones
+0,3023.928,226.7946,California,Phones
+0,1487.976,185.997,California,Phones
+0,539.97,134.9925,New York,Phones
+0,279.86,134.3328,New York,Phones
+0,302.376,22.6782,California,Phones
+0,1113.504,125.2692,California,Phones
+0,135.99,36.7173,New York,Phones
+0,119.96,33.5888,New York,Phones
+0,1212.848,106.1242,California,Phones
+0,135.99,36.7173,New York,Phones
+0,161.61,42.0186,Virginia,Phones
+0,71.96,7.196,California,Phones
+0,503.96,125.99,New York,Phones
+0,211.168,18.4772,California,Phones
+0,83.72,23.4416,Kentucky,Phones
+0,411.98,119.4742,Georgia,Phones
+0,249.584,15.599,Washington,Phones
+0,517.9,134.654,Michigan,Phones
+0,125.99,31.4975,Michigan,Phones
+0,87.8,43.9,New York,Phones
+0,124.95,2.499,New York,Phones
+0,55.98,15.6744,Georgia,Phones
+0,79.968,-17.9928,California,Phones
+0,14.78,3.9906,Michigan,Phones
+0,359.976,130.4913,California,Phones
+0,818.376,51.1485,California,Phones
+0,73.584,8.2782,California,Phones
+0,1879.96,545.1884,Indiana,Phones
+0,617.97,160.6722,New York,Phones
+0,43.176,15.1116,California,Phones
+0,201.584,12.599,California,Phones
+0,155.35,0,Virginia,Phones
+0,601.536,60.1536,California,Phones
+0,1091.168,68.198,Washington,Phones
+0,259.96,124.7808,Indiana,Phones
+0,2575.944,257.5944,California,Phones
+0,299.98,83.9944,Michigan,Phones
+0,242.624,27.2952,Washington,Phones
+0,419.944,52.493,California,Phones
+0,453.576,39.6879,Washington,Phones
+0,629.95,157.4875,New York,Phones
+0,263.96,71.2692,New York,Phones
+0,31.984,-7.996,California,Phones
+0,177.48,19.9665,Washington,Phones
+0,191.98,51.8346,Kentucky,Phones
+0,173.94,50.4426,Virginia,Phones
+0,110.376,12.4173,California,Phones
+0,783.96,68.5965,California,Phones
+0,57.568,5.7568,California,Phones
+0,71.976,7.1976,California,Phones
+0,263.96,71.2692,Indiana,Phones
+0,755.96,204.1092,Kentucky,Phones
+0,187.98,52.6344,Virginia,Phones
+0,347.97,100.9113,New York,Phones
+0,377.97,94.4925,Michigan,Phones
+0,35.168,11.4296,Washington,Phones
+0,361.376,27.1032,California,Phones
+0,201.584,12.599,California,Phones
+0,431.976,26.9985,Washington,Phones
+0,196.776,14.7582,California,Phones
+0,369.544,32.3351,California,Phones
+0,587.97,158.7519,Indiana,Phones
+0,119.02,33.3256,New York,Phones
+0,494.97,148.491,Virginia,Phones
+0,383.96,38.396,Washington,Phones
+0,95.94,9.594,Washington,Storage
+0,128.34,37.2186,New York,Storage
+0,1575.14,204.7682,California,Storage
+0,115.44,30.0144,California,Storage
+0,31.44,8.4888,California,Storage
+0,1000.02,290.0058,Washington,Storage
+0,340.92,3.4092,California,Storage
+0,124.36,33.5772,California,Storage
+0,64.96,9.744,New York,Storage
+0,67.4,17.524,Indiana,Storage
+0,459.95,18.398,New York,Storage
+0,154.44,1.5444,California,Storage
+0,67.15,16.7875,Minnesota,Storage
+0,59.76,16.7328,Georgia,Storage
+0,1003.62,0,Washington,Storage
+0,13.96,0.2792,New York,Storage
+0,423.28,110.0528,California,Storage
+0,31.16,7.79,Minnesota,Storage
+0,153.78,44.5962,California,Storage
+0,11.21,3.363,New York,Storage
+0,348.56,104.568,Kentucky,Storage
+0,481.32,125.1432,Georgia,Storage
+0,375.34,18.767,New York,Storage
+0,36.63,9.8901,Kentucky,Storage
+0,191.88,19.188,New York,Storage
+0,304.23,9.1269,California,Storage
+0,46.53,12.0978,New York,Storage
+0,81.4,21.164,Indiana,Storage
+0,1000.02,290.0058,California,Storage
+0,46.53,13.0284,Washington,Storage
+0,305.01,76.2525,California,Storage
+0,154.44,1.5444,Georgia,Storage
+0,330.4,85.904,California,Storage
+0,571.44,165.7176,Virginia,Storage
+0,296.37,80.0199,Michigan,Storage
+0,171.04,44.4704,Michigan,Storage
+0,68.6,18.522,New York,Storage
+0,535.41,160.623,Michigan,Storage
+0,67.9,0.679,Virginia,Storage
+0,40.74,0.4074,Washington,Storage
+0,332.94,9.9882,Virginia,Storage
+0,386.34,54.0876,Indiana,Storage
+0,65.12,16.9312,New York,Storage
+0,80.88,21.0288,California,Storage
+0,14.03,4.0687,California,Storage
+0,27.92,0.5584,California,Storage
+0,344.91,10.3473,New York,Storage
+0,720.76,187.3976,California,Storage
+0,227.28,2.2728,Washington,Storage
+0,42.76,11.1176,California,Storage
+0,354.9,17.745,California,Storage
+0,449.15,8.983,California,Storage
+0,454.9,0,New York,Storage
+0,563.4,67.608,New York,Storage
+0,107.44,27.9344,New York,Storage
+0,428.68,0,New York,Storage
+0,465.18,120.9468,New York,Storage
+0,122.48,0,Virginia,Storage
+0,535.41,160.623,California,Storage
+0,523.48,130.87,Michigan,Storage
+0,161.94,9.7164,New York,Storage
+0,24.56,6.8768,Minnesota,Storage
+0,1117.92,55.896,Washington,Storage
+0,24.56,6.8768,Virginia,Storage
+0,40.29,10.0725,Georgia,Storage
+0,83.56,1.6712,New York,Storage
+0,261.74,65.435,California,Storage
+0,30.84,8.3268,Virginia,Storage
+0,676.55,6.7655,California,Storage
+0,16.91,4.5657,Virginia,Storage
+0,24.88,6.9664,New York,Storage
+0,15.14,0.6056,Kentucky,Storage
+0,59.48,8.922,New York,Storage
+0,362.92,105.2468,California,Storage
+0,46.74,11.685,Washington,Storage
+0,356.94,107.082,Georgia,Storage
+0,211.96,8.4784,California,Storage
+0,193.86,11.6316,New York,Storage
+0,22.58,5.8708,New York,Storage
+0,44.94,12.5832,New York,Storage
+0,33.63,10.089,California,Storage
+0,34.05,9.534,California,Storage
+0,85.52,22.2352,Michigan,Storage
+0,443.92,13.3176,Indiana,Storage
+0,142.86,41.4294,California,Storage
+0,114.46,28.615,California,Storage
+0,1247.64,349.3392,Washington,Storage
+0,134.8,35.048,California,Storage
+0,485.88,19.4352,Washington,Storage
+0,10.68,2.8836,California,Storage
+0,70.26,18.9702,California,Storage
+0,33.63,10.089,New York,Storage
+0,63.56,3.178,California,Storage
+0,713.88,214.164,New York,Storage
+0,199.74,47.9376,Washington,Storage
+0,129.92,5.1968,Kentucky,Storage
+0,1263.3,315.825,Georgia,Storage
+0,67.15,16.7875,New York,Storage
+0,21.98,0.2198,Michigan,Storage
+0,92.52,24.9804,Washington,Storage
+0,221.96,4.4392,California,Storage
+0,459.88,13.7964,New York,Storage
+0,20.34,0.2034,California,Storage
+0,763.44,45.8064,California,Storage
+0,728.82,29.1528,California,Storage
+0,704.25,84.51,New York,Storage
+0,118.25,34.2925,Georgia,Storage
+0,63.84,16.5984,New York,Storage
+0,61.02,0.6102,California,Storage
+0,169.45,42.3625,Indiana,Storage
+0,57.23,14.3075,California,Storage
+0,1247.64,349.3392,New York,Storage
+0,544.38,157.8702,Virginia,Storage
+0,29.79,8.6391,California,Storage
+0,64.96,2.5984,New York,Storage
+0,51.45,13.8915,California,Storage
+0,83.92,20.1408,New York,Storage
+0,535.41,160.623,New York,Storage
+0,489.92,0,Virginia,Storage
+0,1676.88,83.844,New York,Storage
+0,14.98,4.1944,California,Storage
+1,69.48,20.844,California,Appliances
+1,50.96,25.48,California,Paper
+1,418.32,117.1296,Michigan,Storage
+1,123.858,46.7908,Michigan,Appliances
+1,639.968,215.9892,California,Copiers
+1,52.76,24.2696,California,Paper
+1,81.568,9.1764,California,Chairs
+1,97.184,6.074,California,Chairs
+1,18.96,7.584,California,Furnishings
+1,91.96,15.6332,California,Furnishings
+1,33.11,12.9129,California,Furnishings
+1,19.44,9.3312,California,Paper
+1,55.48,26.6304,California,Paper
+1,12.96,6.2208,California,Paper
+1,87.84,23.7168,California,Appliances
+1,24.9,8.217,California,Furnishings
+1,21.12,9.504,California,Paper
+1,191.976,19.1976,California,Phones
+1,70.56,23.9904,California,Furnishings
+1,32.4,15.552,California,Paper
+1,10.56,0,California,Storage
+1,112.648,11.2648,California,Chairs
+1,56.56,15.2712,California,Storage
+1,8.62,2.2412,California,Appliances
+1,659.976,49.4982,California,Phones
+1,569.568,7.1196,Washington,Chairs
+1,149.73,43.4217,Washington,Storage
+1,290.98,75.6548,Virginia,Chairs
+1,33.4,16.032,Washington,Paper
+1,638.288,-31.9144,California,Chairs
+1,239.97,26.3967,California,Accessories
+1,37.74,12.8316,California,Furnishings
+1,38.24,-9.56,California,Phones
+1,269.98,67.495,New York,Phones
+1,99.9,47.952,New York,Paper
+1,39.08,14.4596,New York,Furnishings
+1,30.28,1.2112,Washington,Storage
+1,57.93,16.2204,Washington,Storage
+1,35.34,13.4292,Washington,Furnishings
+1,81.92,22.1184,California,Appliances
+1,889.536,66.7152,California,Phones
+1,892.224,89.2224,California,Chairs
+1,223.92,109.7208,California,Paper
+1,23.12,11.3288,California,Paper
+1,152.91,42.8148,California,Appliances
+1,92.94,41.823,California,Paper
+1,195.136,-12.196,California,Chairs
+1,164.646,12.8058,New York,Chairs
+1,22.68,11.1132,New York,Paper
+1,9.24,4.4352,California,Furnishings
+1,68.46,20.538,Washington,Furnishings
+1,963.136,108.3528,Washington,Chairs
+1,88.776,7.7679,Washington,Phones
+1,11.76,5.7624,Washington,Paper
+1,167.94,82.2906,Washington,Paper
+1,3.89,1.0114,Washington,Appliances
+1,283.92,17.745,California,Chairs
+1,46.76,22.4448,New York,Paper
+1,1259.97,327.5922,New York,Phones
+1,242.136,12.1068,California,Chairs
+1,19.96,5.5888,California,Furnishings
+1,340.92,3.4092,California,Storage
+1,17.46,5.9364,California,Furnishings
+1,104.85,50.328,California,Paper
+1,19.92,9.7608,California,Paper
+1,43.02,15.4872,California,Furnishings
+1,73.68,34.6296,Washington,Paper
+1,139.92,23.7864,Washington,Furnishings
+1,107.88,10.788,Washington,Phones
+1,33.29,7.9896,Washington,Storage
+1,45.36,21.7728,California,Paper
+1,262.24,78.672,California,Appliances
+1,182.72,84.0512,California,Paper
+1,131.6,7.896,California,Accessories
+1,68.52,31.5192,California,Paper
+1,74.94,14.2386,California,Storage
+1,287.88,35.985,California,Phones
+1,579.95,168.1855,Virginia,Phones
+1,29.12,12.5216,Virginia,Furnishings
+1,121.78,30.445,Georgia,Chairs
+1,134.85,37.758,Indiana,Phones
+1,38.88,19.0512,California,Paper
+1,991.2,257.712,New York,Storage
+1,879.984,329.994,New York,Copiers
+1,198.46,99.23,California,Furnishings
+1,321.92,96.576,California,Appliances
+1,879.984,329.994,California,Copiers
+1,230.28,23.028,California,Chairs
+1,116.28,56.9772,California,Paper
+1,354.9,17.745,California,Storage
+1,33,8.25,New York,Phones
+1,249.95,87.4825,New York,Accessories
+1,6.48,3.1104,California,Paper
+1,601.3,198.429,New York,Appliances
+1,16.99,4.4174,New York,Phones
+1,287.97,80.6316,New York,Phones
+1,44.82,21.0654,New York,Paper
+1,91.96,15.6332,California,Furnishings
+1,258.576,19.3932,California,Phones
+1,29.6,13.32,California,Paper
+1,12.96,6.3504,California,Paper
+1,26.48,10.0624,California,Furnishings
+1,26.72,12.8256,California,Paper
+1,20.04,9.6192,California,Paper
+1,795.48,7.9548,California,Storage
+1,21.56,6.8992,California,Furnishings
+1,80.98,3.2392,California,Storage
+1,947.17,9.4717,California,Storage
+1,61.96,27.882,California,Paper
+1,59.97,13.7931,California,Accessories
+1,761.544,66.6351,California,Phones
+1,45.36,21.7728,California,Paper
+1,244.55,4.891,New York,Storage
+1,13.98,6.0114,New York,Accessories
+1,899.95,53.997,New York,Accessories
+1,211.04,97.0784,California,Paper
+1,594.816,59.4816,California,Chairs
+1,1049.44,440.7648,California,Accessories
+1,170.352,-17.0352,California,Chairs
+1,39.96,3.4965,California,Phones
+1,34.08,15.336,California,Paper
+1,30.18,13.8828,Washington,Paper
+1,450,162,California,Accessories
+1,29.22,12.8568,California,Furnishings
+1,120.784,-13.5882,California,Chairs
+1,142.04,38.3508,New York,Storage
+1,321.552,20.097,California,Phones
+1,374.376,46.797,California,Phones
+1,99.99,34.9965,California,Accessories
+1,435.168,-59.8356,California,Chairs
+1,15.8,4.108,California,Appliances
+1,72.9,26.973,California,Furnishings
+1,7.992,2.6973,California,Phones
+1,12.35,5.434,Washington,Furnishings
+1,485.88,9.7176,Washington,Storage
+1,25.92,12.4416,Washington,Paper
+1,197.58,53.3466,Washington,Storage
+1,166.5,21.645,California,Furnishings
+1,360.38,93.6988,California,Storage
+1,31.92,8.2992,California,Storage
+1,433.568,-65.0352,California,Chairs
+1,265.93,63.8232,Washington,Accessories
+1,8.56,3.852,New York,Paper
+1,11.56,5.6644,New York,Paper
+1,38.88,18.6624,California,Paper
+1,183.84,62.5056,California,Furnishings
+1,109.92,53.8608,California,Paper
+1,13.36,6.4128,California,Paper
+1,30.56,10.3904,California,Furnishings
+1,111.96,54.8604,California,Paper
+1,148.48,16.704,California,Phones
+1,7.42,3.71,California,Paper
+1,71.992,-0.8999,California,Chairs
+1,1702.12,510.636,California,Appliances
+1,90.86,26.3494,California,Appliances
+1,66.36,26.544,California,Furnishings
+1,24.14,7.9662,California,Furnishings
+1,31.44,8.4888,California,Storage
+1,83.79,22.6233,California,Appliances
+1,159.96,17.9955,California,Phones
+1,73.584,8.2782,California,Phones
+1,6.48,3.1104,California,Paper
+1,698.352,52.3764,Washington,Chairs
+1,99.6,36.852,Washington,Accessories
+1,96.08,46.1184,California,Paper
+1,24.96,6.24,Georgia,Furnishings
+1,19.36,9.2928,Georgia,Paper
+1,1267.65,152.118,Georgia,Storage
+1,191.96,51.8292,Kentucky,Chairs
+1,469.95,131.586,Kentucky,Phones
+1,209.88,35.6796,Kentucky,Furnishings
+1,481.32,125.1432,California,Storage
+1,13.36,6.4128,California,Paper
+1,541.44,157.0176,California,Appliances
+1,19.44,9.3312,California,Paper
+1,1287.45,244.6155,California,Accessories
+1,168.1,43.706,California,Appliances
+1,21.8,6.104,Virginia,Phones
+1,79.92,34.3656,Washington,Furnishings
+1,69.98,13.2962,Washington,Accessories
+1,19.8,1.7325,California,Phones
+1,143.952,17.994,California,Phones
+1,19.44,9.3312,California,Paper
+1,46.35,21.7845,New York,Paper
+1,223.92,109.7208,New York,Paper
+1,320.88,93.0552,California,Appliances
+1,23.88,10.5072,California,Furnishings
+1,26.76,12.3096,California,Paper
+1,339.96,122.3856,California,Accessories
+1,20.04,9.6192,California,Paper
+1,35.44,16.6568,California,Paper
+1,43.12,20.6976,California,Furnishings
+1,72.744,-15.4581,California,Phones
+1,572.16,35.76,California,Chairs
+1,275.88,46.8996,Georgia,Furnishings
+1,94.68,31.2444,California,Furnishings
+1,23.67,0.9468,California,Storage
+1,1091.168,68.198,California,Phones
+1,20.56,9.6632,California,Paper
+1,273.96,71.2296,Virginia,Furnishings
+1,89.97,18.8937,Virginia,Accessories
+1,756.8,75.68,Virginia,Furnishings
+1,20.04,9.6192,California,Paper
+1,64.96,2.5984,California,Storage
+1,12.96,6.2208,California,Paper
+1,46.32,18.0648,California,Accessories
+1,167.888,14.6902,Washington,Chairs
+1,43.1,11.206,California,Appliances
+1,511.5,132.99,California,Furnishings
+1,201.584,20.1584,California,Phones
+1,83.984,31.494,California,Phones
+1,194.352,19.4352,California,Chairs
+1,19.36,9.2928,California,Paper
+1,19.3,5.79,California,Furnishings
+1,192.16,92.2368,New York,Paper
+1,39,11.31,California,Appliances
+1,44.46,14.6718,California,Furnishings
+1,279.96,17.4975,California,Phones
+1,25.92,12.4416,California,Paper
+1,40.46,19.8254,California,Paper
+1,33.87,8.8062,California,Storage
+1,26.25,11.025,California,Furnishings
+1,219.184,19.1786,California,Phones
+1,144.12,69.1776,Michigan,Paper
+1,15.96,7.98,Michigan,Paper
+1,79.44,30.1872,New York,Furnishings
+1,127.764,21.294,New York,Chairs
+1,2799.944,1014.9797,New York,Copiers
+1,19.44,9.3312,New York,Paper
+1,22.92,11.2308,California,Paper
+1,26.4,11.88,California,Paper
+1,41.88,0.8376,California,Storage
+1,544.008,40.8006,California,Chairs
+1,59.94,28.1718,California,Paper
+1,23.92,11.7208,California,Paper
+1,4.28,1.926,California,Paper
+1,28.14,13.5072,California,Paper
+1,274.89,46.7313,California,Accessories
+1,218.352,-19.1058,California,Chairs
+1,199.9,39.98,Washington,Furnishings
+1,31.176,-7.0146,Washington,Phones
+1,72.784,0,California,Chairs
+1,97.84,25.4384,California,Appliances
+1,51.75,15.525,California,Furnishings
+1,431.968,37.7972,California,Phones
+1,129.92,10.3936,California,Furnishings
+1,203.52,54.9504,California,Appliances
+1,383.8,38.38,California,Chairs
+1,160.93,3.2186,New York,Phones
+1,5.56,1.7375,California,Phones
+1,217.85,65.355,California,Storage
+1,32.48,4.872,Washington,Storage
+1,20.04,9.6192,Washington,Paper
+1,13999.96,6719.9808,Washington,Copiers
+1,14.19,5.5341,Washington,Furnishings
+1,199.98,75.9924,Washington,Accessories
+1,144.96,60.8832,Washington,Accessories
+1,118,20.06,Washington,Accessories
+1,48.94,24.47,Washington,Paper
+1,22.66,9.7438,Washington,Appliances
+1,1049.2,272.792,California,Furnishings
+1,71.976,8.997,California,Phones
+1,8.56,3.852,California,Paper
+1,2518.29,654.7554,California,Appliances
+1,540.57,140.5482,California,Storage
+1,494.376,49.4376,California,Phones
+1,248.85,27.3735,California,Accessories
+1,36.24,15.2208,California,Accessories
+1,454.272,-73.8192,California,Chairs
+1,154.9,69.705,California,Paper
+1,26.38,12.1348,New York,Paper
+1,71.97,16.5531,New York,Furnishings
+1,204.95,100.4255,California,Paper
+1,119.98,57.5904,California,Accessories
+1,70.68,31.0992,Washington,Furnishings
+1,541.24,5.4124,Washington,Storage
+1,19.98,9.3906,California,Paper
+1,323.136,20.196,California,Chairs
+1,1295.84,145.782,California,Phones
+1,46.84,12.6468,California,Storage
+1,282.84,19.7988,California,Furnishings
+1,44.75,8.5025,California,Accessories
+1,11.96,5.382,California,Paper
+1,170.352,-17.0352,California,Chairs
+1,526.45,31.587,Indiana,Furnishings
+1,272.646,18.1764,New York,Chairs
+1,212.8,95.76,New York,Accessories
+1,38.52,18.1044,New York,Paper
+1,72.64,21.792,New York,Accessories
+1,45.4,12.712,New York,Storage
+1,13.76,6.3296,New York,Paper
+1,80.991,8.0991,New York,Chairs
+1,2888.127,609.7157,New York,Chairs
+1,1299.66,350.9082,New York,Phones
+1,2254.41,375.735,New York,Chairs
+1,104.85,28.3095,New York,Phones
+1,59.97,20.3898,New York,Accessories
+1,199.99,85.9957,California,Accessories
+1,207.144,48.3336,Michigan,Appliances
+1,61.584,-6.9282,Washington,Chairs
+1,41.94,15.0984,Washington,Accessories
+1,52.792,4.6193,Washington,Phones
+1,6.16,2.9568,Minnesota,Furnishings
+1,36.84,17.3148,Minnesota,Paper
+1,208.56,52.14,New York,Storage
+1,32.4,15.552,New York,Paper
+1,319.41,7.098,New York,Chairs
+1,14.56,6.9888,New York,Paper
+1,30,3.3,New York,Accessories
+1,287.97,77.7519,Georgia,Phones
+1,595.38,297.69,Georgia,Furnishings
+1,12.96,6.2208,Georgia,Paper
+1,144.784,10.8588,California,Chairs
+1,50.04,25.02,California,Paper
+1,2.91,1.3677,Indiana,Furnishings
+1,30.98,13.941,California,Paper
+1,119.96,25.1916,California,Accessories
+1,363.92,-31.843,California,Chairs
+1,50.22,2.0088,California,Storage
+1,83.42,24.1918,California,Appliances
+1,15.7,7.065,California,Paper
+1,213.48,16.011,California,Phones
